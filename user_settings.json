@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "renv.lock": "json"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.experimentalGpuAcceleration": "on",
+    "editor.tabCompletion": "on",
+    "quarto.render.previewType": "external",
+    "quarto.cells.useReticulate": false,
+    "quarto.visualEditor.markdownWrap": "column",
+    "positron.r.pipe": "%>%",
+    "positron.r.defaultRepositories": "posit-ppm",
+    "kernelSupervisor.connectionTimeout": 120,
+    "git.autofetch": true,
+    "workbench.externalUriOpeners": "external",
+    "workbench.colorTheme": "Default Positron Dark",
+    "plantuml.exportFormat": "svg",
+    "plantuml.exportMapFile": true,
+    "git.enableSmartCommit": true,
+    "explorer.copyRelativePathSeparator": "/",
+    "positron.viewer.openLocalhostUrls": false,
+    "shiny.previewType": "external",
+    "shiny.timeoutOpenBrowser": 20
+}
